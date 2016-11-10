@@ -26,36 +26,44 @@ h1{
 	text-align: center;
 	padding-top: 30px;
 }
-.AboutMe{
-	color: red;
 
+#graydiv{
+    clear: both;
+    background-color: lightgrey;
+    height: 350px;
+    padding: 25px;
+    margin: 25px;
 }
-.graydiv{
-	clear: both;
-	background: grey;
-	width: 100%;
-	height: 500px
-}
+
 .aboutbox{
 	background: white;
-	height: 70%;
-	width: 50%;
-	margin-top: 40px;
-	margin-left: 50px;	
-	color: #BA3A1E;
+	height: 85%;
+	width: 40%;
+	margin-top: 20px;
+	margin-left: 20px;	
+	color: #BA3A1E;	
 }
 
+#mypicture{
+	margin-left:20px;
+	float:left;
+}
 .bio{	
-width: 50%;
-
+background:white;
+margin-right: 50px;
+margin-left: 180px;
+height: 80%;
+margin-top: 10px;
 }
 
-.socialmedia{
-	background: red;
-	float: left;
-	width: 1%;
-
+aside{
+	padding: 20px;
+	background:#ebebeb;
+	float: right;
+	width: 20%;
+	height:300px;
 }
+
 footer{
 	text-align: center;
 	color: #9B59B6;
@@ -64,11 +72,31 @@ footer{
 }
 
 .portfoliotitle{
-	color: red;
-	clear: both;
+	clear:both;
+	padding:20px;
+	background: white;
+	height: 70%;
+	width: 50%;
+	margin-top: 160px;
+	margin-left: 20px;	
+	color: #BA3A1E;	
 }
 
-.list{
-	color: green;
-	width: 50%;
+#firstpicture{
+	margin-left:60px;
+	float:left;	
+	padding-right: 125px;
+}
+#secondpicture{
+	
+}
+#thirdpicture{
+	margin-left:60px;
+	float:left;	
+	padding-right: 150px;	
+}
+#forthpicture{
+margin-left: -30px;
+float: left;
+
 }
